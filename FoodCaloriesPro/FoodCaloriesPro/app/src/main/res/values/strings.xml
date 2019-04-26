@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodCaloriesPro</string>
+    <string name="textView_Select">Select Food Items</string>
+    <string name="bread_cereal">Breads Cereals</string>
+    <string name="meat_fish">Meats Fish</string>
+    <string name="fruit_veg">Fruits Vegetables</string>
+    <string name="milk_dairy">Milk Dairy Produce</string>
+    <string name="fat_sugar">Fats Sugars</string>
+    <string name="fruit">Fruit</string>
+    <string name="cal_btn">Calories</string>
+    <string name="cal_of_selected_item">Total Calories Of Selected Items is:</string>
+</resources>
